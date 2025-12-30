@@ -3,10 +3,10 @@
 ![Coding Animation](./hq720.jpg)
 
 <!--- about --->
-- 👋 Hi, I’m **[@Sourav Halder](https://github.com/souravhalder-dev)**
+- Hi, I’m **[@Sourav Halder](https://github.com/souravhalder-dev)**
 - I’m currently working on **Html, Css, Javascript, Tailwind, React.js** for frontend development.
 - Using **Node.js, Express.js, MongoDB** for the backend.
-- 📫 How to reach me **skhsouravhalder@gmail.com**
+- How to reach me **skhsouravhalder@gmail.com**
 <br/>
 
 

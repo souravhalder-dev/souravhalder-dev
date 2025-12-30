@@ -1,4 +1,4 @@
-## I'm Sourav , and I want to do Great Things with Coding
+## I'm Sourav and I want to do Great Things with Coding
 
 ![Coding Animation](./hq720.jpg)
 

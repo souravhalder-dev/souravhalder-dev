@@ -4,7 +4,7 @@
 
 <!--- about --->
 - Hi, I’m **[@Sourav Halder](https://github.com/souravhalder-dev)** 
-I’m a passionate **MERN Stack Developer** from **Bangladesh**, focused on building scalable, responsive, and user-centric web applications.
+I’m a passionate **MERN Stack Developer** 
 - I’m currently working on **Html, Css, Javascript, Tailwind, React.js** for frontend development.
 - Using **Node.js, Express.js, MongoDB** for the backend.
 - How to reach me **skhsouravhalder@gmail.com**

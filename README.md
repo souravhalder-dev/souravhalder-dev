@@ -8,6 +8,27 @@
 - Using **Node.js, Express.js, MongoDB** for the backend.
 - How to reach me **skhsouravhalder@gmail.com**
 <br/>
+##  Hi there, I'm Sourav Halder
+
+I’m a passionate **MERN Stack Developer** from **Bangladesh**, focused on building scalable, responsive, and user-centric web applications.
+
+###  What I Do
+- Build modern front-end interfaces using **React**
+- Develop robust back-ends with **Node.js** and **Express**
+- Design and manage databases using **MongoDB**
+- Create full-stack solutions from idea to deployment
+
+###  Currently Exploring
+- **Next.js** for performance-optimized React applications
+- Best practices in clean code and system design
+- Open-source collaboration and community contributions
+
+###  Mindset
+I enjoy turning ideas into real-world projects and continuously improving my skills. I believe in learning by building and creating solutions that make a meaningful impact.
+
+---
+
+ *Always eager to learn, grow, and collaborate on exciting projects.*
 
 
 <h3 align="left">Connect with me:</h3>

@@ -56,8 +56,6 @@ I’m a passionate **MERN Stack Developer**
 
 ---
 
----
-
 
 
 

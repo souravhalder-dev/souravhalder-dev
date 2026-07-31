@@ -47,59 +47,6 @@ Passionate about creating clean, maintainable, and production-ready software.
 
 ---
 
-# 💼 Featured Projects
-
-## 📚 LearnHub – Learning Platform
-
-> A complete learning management platform.
-
-### Features
-
-- Student, Tutor & Admin dashboards
-- Booking system with conflict prevention
-- Authentication & Authorization
-- PostgreSQL + Prisma database
-- Better Auth
-- Server-side rendering with Next.js
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `Better Auth`
-
----
-
-## 🐾 PawHome – Pet Adoption Platform
-
-### Features
-
-- Pet Adoption
-- Stripe Payment
-- Donation Campaign
-- Search & Filters
-- Infinite Scrolling
-
-**Tech Stack**
-
-`React` `Express.js` `MongoDB` `JWT` `TanStack Query` `Stripe`
-
----
-
-## 🍽 EpiqDine – Restaurant Management System
-
-### Features
-
-- Google Authentication
-- JWT Authentication
-- Food Ordering
-- Stock Management
-- Popular Food Algorithm
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Firebase`
-
----
-
 # 🌱 Currently Learning
 
 - SaaS Product Engineering
@@ -116,6 +63,7 @@ Passionate about creating clean, maintainable, and production-ready software.
 ## 📫 Connect with Me
 
 <p align="left">
+
 <a href="mailto:skhsouravhalder@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
@@ -136,47 +84,9 @@ Passionate about creating clean, maintainable, and production-ready software.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=souravhalder-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=souravhalder-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravhalder-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=souravhalder-dev&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=souravhalder-dev&theme=tokyo-night"/>
-
-</p>
-
----
-
 <div align="center">
 
-### 💙 "Code. Learn. Build. Repeat."
+### 💙 Code. Learn. Build. Repeat.
 
 ![](https://komarev.com/ghpvc/?username=souravhalder-dev&color=blueviolet&style=for-the-badge)
 

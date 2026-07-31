@@ -24,6 +24,17 @@ Passionate about creating clean, maintainable, and production-ready software.
 - 📚 Always learning new technologies and best development practices
 
 ---
+## AI & Automation
+
+- OpenAI API Integration
+- Retrieval-Augmented Generation (RAG)
+- Vector Embeddings
+- Semantic Search
+- LangChain
+- AI Agents
+- Prompt Engineering
+- n8n Automation
+
 
 ## 🛠 Tech Stack
 

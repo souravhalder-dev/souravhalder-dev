@@ -51,7 +51,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MediaWiki-000000?style=for-the-badge&logo=mediawiki&logoColor=white" height="48" alt="MediaWiki" />
+  <img src="[https://img.shields.io/badge/MediaWiki-000000?style=for-the-badge&logo=mediawiki&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/d/dd/MediaWiki-2020-logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)" height="48" alt="MediaWiki" />
 </p>
 
 ### DevOps, Cloud & Developer Tooling

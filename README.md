@@ -20,17 +20,17 @@
 
 ---
 
-##  Executive Summary
+## ⚡ Executive Summary
 
--  Based in **Khulna, Bangladesh** — collaborating remotely worldwide.
--  **Core Competency:** End-to-end full-stack engineering using **TypeScript, React, Next.js, and Node.js**.
--  **AI & Automation:** Designing multi-agent workflows, autonomous pipelines via **n8n**, and production-grade **RAG architectures**.
--  **Architectural Focus:** High availability, relational/non-relational database optimization, and modular SaaS infrastructure.
--  Open to contract engagements, open-source initiatives, and high-impact engineering roles.
+- 📍 Based in **Khulna, Bangladesh** — collaborating remotely worldwide.
+- 🚀 **Core Competency:** End-to-end full-stack engineering using **TypeScript, React, Next.js, and Node.js**.
+- 🤖 **AI & Automation:** Designing multi-agent workflows, autonomous pipelines via **n8n**, and production-grade **RAG architectures**.
+- 🛠️ **Architectural Focus:** High availability, relational/non-relational database optimization, and modular SaaS infrastructure.
+- 🌐 Open to contract engagements, open-source initiatives, and high-impact engineering roles.
 
 ---
 
-##  Technical Arsenal
+## 🛠️ Technical Arsenal
 
 ### Languages & Core Web
 <p align="left">
@@ -47,6 +47,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase" alt="Backend & DB" />
 </p>
 
+### CMS & Knowledge Engines
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MediaWiki-000000?style=for-the-badge&logo=mediawiki&logoColor=white" height="48" alt="MediaWiki" />
+</p>
+
 ### DevOps, Cloud & Developer Tooling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,vercel,netlify,figma" alt="DevOps & Tools" />
@@ -54,7 +61,7 @@
 
 ---
 
-##  Applied AI & Workflow Automation
+## 🧠 Applied AI & Workflow Automation
 
 <table>
   <tr>
@@ -73,6 +80,7 @@
         <li>End-to-End Workflow Automation via <b>n8n</b></li>
         <li>Webhook Triggers, Event Bus & Third-Party API Integration</li>
         <li>Automated Data ETL & Async Background Processing</li>
+        <li>Content Management & Knowledge Base Integration (<b>WordPress & MediaWiki</b>)</li>
       </ul>
     </td>
   </tr>
@@ -80,7 +88,7 @@
 
 ---
 
-##  Active Focus Areas
+## 🎯 Active Focus Areas
 
 - **System Design:** Partitioning, multi-tenancy, and high-throughput microservices.
 - **Data & Caching Layer:** In-memory caching strategies with **Redis** and message queuing.
@@ -88,7 +96,7 @@
 
 ---
 
-##  GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=souravhalder-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sourav's GitHub Stats" height="165" />

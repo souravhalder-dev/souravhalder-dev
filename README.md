@@ -15,13 +15,13 @@ Passionate about creating clean, maintainable, and production-ready software.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Full Stack Developer from **Khulna, Bangladesh**
-- 🌱 Currently mastering **System Design, SaaS Architecture & Scalable Applications**
-- ⚡ Building modern applications using **Next.js, React, TypeScript & Node.js**
-- 🔥 Passionate about **Open Source** and solving real-world problems
-- 📚 Always learning new technologies and best development practices
+-  Full Stack Developer from **Khulna, Bangladesh**
+-  Currently mastering **System Design, SaaS Architecture & Scalable Applications**
+-  Building modern applications using **Next.js, React, TypeScript & Node.js**
+-  Passionate about **Open Source** and solving real-world problems
+-  Always learning new technologies and best development practices
 
 ---
 ## AI & Automation
@@ -58,7 +58,7 @@ Passionate about creating clean, maintainable, and production-ready software.
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - SaaS Product Engineering
 - Microservices
@@ -71,7 +71,7 @@ Passionate about creating clean, maintainable, and production-ready software.
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p align="left">
 

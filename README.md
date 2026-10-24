@@ -20,17 +20,17 @@
 
 ---
 
-## ⚡ Executive Summary
+##  Executive Summary
 
-- 📍 Based in **Khulna, Bangladesh** — collaborating remotely worldwide.
-- 🚀 **Core Competency:** End-to-end full-stack engineering using **TypeScript, React, Next.js, and Node.js**.
-- 🤖 **AI & Automation:** Designing multi-agent workflows, autonomous pipelines via **n8n**, and production-grade **RAG architectures**.
-- 🛠️ **Architectural Focus:** High availability, relational/non-relational database optimization, and modular SaaS infrastructure.
-- 🌐 Open to contract engagements, open-source initiatives, and high-impact engineering roles.
+-  Based in **Khulna, Bangladesh** — collaborating remotely worldwide.
+-  **Core Competency:** End-to-end full-stack engineering using **TypeScript, React, Next.js, and Node.js**.
+-  **AI & Automation:** Designing multi-agent workflows, autonomous pipelines via **n8n**, and production-grade **RAG architectures**.
+-  **Architectural Focus:** High availability, relational/non-relational database optimization, and modular SaaS infrastructure.
+-  Open to contract engagements, open-source initiatives, and high-impact engineering roles.
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 
 ### Languages & Core Web
 <p align="left">
@@ -61,7 +61,7 @@
 
 ---
 
-## 🧠 Applied AI & Workflow Automation
+##  Applied AI & Workflow Automation
 
 <table>
   <tr>
@@ -88,7 +88,7 @@
 
 ---
 
-## 🎯 Active Focus Areas
+##  Active Focus Areas
 
 - **System Design:** Partitioning, multi-tenancy, and high-throughput microservices.
 - **Data & Caching Layer:** In-memory caching strategies with **Redis** and message queuing.
@@ -96,7 +96,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=souravhalder-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sourav's GitHub Stats" height="165" />
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-### 💡 *Architecting reliable, scalable software solutions.*
+###  *Architecting reliable, scalable software solutions.*
 
 ![](https://komarev.com/ghpvc/?username=souravhalder-dev&color=007acc&style=for-the-badge)
 
